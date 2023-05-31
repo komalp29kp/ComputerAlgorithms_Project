@@ -1,6 +1,6 @@
 # ComputerAlgorithms_Project
 Computer Algorithms Course Project: A comprehensive implementation of essential algorithms like sorting, searching, graph traversal, and dynamic programming. Includes code, analysis, and insights. Enhances understanding of algorithmic concepts and their practical applications. Useful for students and professionals in the field of computer science.
-
+Project Name: Graph Coloring
 Abstract
  
 Project Planning Report
